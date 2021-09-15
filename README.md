@@ -1,1 +1,1 @@
-# translator
+# ch.translate

@@ -1,3 +1,5 @@
+package ch.translate.language;
+
 /**
  * "BG" - Bulgarian
  * "CS" - Czech
